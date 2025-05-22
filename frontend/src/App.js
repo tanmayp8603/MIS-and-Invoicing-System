@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Tanmay Patil
+          Tanmay Patilconsole.log('App component rendered');
         </a>
       </header>
     </div>
